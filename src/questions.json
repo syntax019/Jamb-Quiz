@@ -1,0 +1,575 @@
+[
+  {
+    "question": "Which noble gas is radioactive and is produced as a decay product of uranium and thorium?",
+    "options": {
+      "A": "Argon",
+      "B": "Krypton",
+      "C": "Radon",
+      "D": "Neon"
+    },
+    "answer": "C",
+    "points": 10
+  },
+  {
+    "question": "Which of the following reactions would be expected to have the highest entropy change?",
+    "options": {
+      "A": "Liquid → Gas",
+      "B": "Solid → Liquid",
+      "C": "Gas → Liquid",
+      "D": "Gas → Solid"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "What is the sum of the oxidation numbers in a neutral compound?",
+    "options": {
+      "A": "+2",
+      "B": "-1",
+      "C": "0",
+      "D": "+15"
+    },
+    "answer": "C",
+    "points": 10
+  },
+  {
+    "question": "According to the kinetic theory of gases, the pressure exerted by a gas is due to",
+    "options": {
+      "A": "The vibrations of gas particles.",
+      "B": "The weight of the gas particles",
+      "C": "The attractive forces between gas particles",
+      "D": "The collisions of gas particles with the container walls"
+    },
+    "answer": "D",
+    "points": 10
+  },
+  {
+    "question": "What is eutrophication?",
+    "options": {
+      "A": "The release of harmful chemicals into water bodies",
+      "B": "The excessive growth of algae due to nutrient enrichment",
+      "C": "The presence of heavy metals in water",
+      "D": "The formation of oil slicks on water surfaces"
+    },
+    "answer": "B",
+    "points": 10
+  },
+  {
+    "question": "What is the name of the process by which ammonia is produced on an industrial scale?",
+    "options": {
+      "A": "Nitrogenation",
+      "B": "Ammoniation",
+      "C": "Nitrification",
+      "D": "Haber process"
+    },
+    "answer": "D",
+    "points": 10
+  },
+  {
+    "question": "Who proposed the planetary model of the atom with electrons orbiting the nucleus?",
+    "options": {
+      "A": "Erwin Schrödinger",
+      "B": "Ernest Rutherford",
+      "C": "Niels Bohr",
+      "D": "J.J. Thomson"
+    },
+    "answer": "C",
+    "points": 10
+  },
+  {
+    "question": "Which of the following is an example of an endothermic reaction?",
+    "options": {
+      "A": "Combustion of propane (C3H8) to produce carbon dioxide (CO2) and water (H2O).",
+      "B": "Burning of methane (CH4) in the presence of oxygen",
+      "C": "Formation of table salt (NaCl) from sodium (Na) and chlorine (Cl2).",
+      "D": "Decomposition of hydrogen peroxide (H2O2) into water (H2O) and oxygen (O2)."
+    },
+    "answer": "D",
+    "points": 10
+  },
+  {
+    "question": "What happens to the value of the equilibrium constant (Kc) for a reaction if the reaction is reversed?",
+    "options": {
+      "A": "It becomes zero",
+      "B": "It becomes negative",
+      "C": "It remains the same",
+      "D": "It becomes the reciprocal of the original value"
+    },
+    "answer": "D",
+    "points": 10
+  },
+  {
+    "question": "What is the chemical structure of soap and detergent molecules?",
+    "options": {
+      "A": "Hydrophilic head and hydrophobic tail",
+      "B": "Hydrophilic head and hydrophilic tail",
+      "C": "Hydrophobic head and hydrophobic tail",
+      "D": "Hydrophilic tail and hydrophobic head"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "What is the solubility product constant (Ksp) used for?",
+    "options": {
+      "A": "To measure the total mass of a solute that can dissolve in a solvent",
+      "B": "To determine the concentration of a solute in a saturated solution",
+      "C": "To calculate the solubility of a solute in a given solvent",
+      "D": "To compare the solubilities of different solutes in the same solvent"
+    },
+    "answer": "C",
+    "points": 10
+  },
+  {
+    "question": "Which trace gas in the atmosphere plays a significant role in the greenhouse effect?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Argon",
+      "C": "Carbon dioxide",
+      "D": "Nitrogen"
+    },
+    "answer": "C",
+    "points": 10
+  },
+  {
+    "question": "Which of the following methods can be used to remove temporary hardness from water?",
+    "options": {
+      "A": "Boiling",
+      "B": "Filtration",
+      "C": "Sedimentation",
+      "D": "Chlorination"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "What is Faraday's constant?",
+    "options": {
+      "A": "6.022 x 10^23 mol^-1",
+      "B": "3.00 x 10^8 m/s",
+      "C": "9.81 m/s^2",
+      "D": "96,485 C/mol"
+    },
+    "answer": "D",
+    "points": 10
+  },
+  {
+    "question": "A gas occupies a volume of 1.5 liters at a pressure of 2 atmospheres. If the pressure is increased to 4 atmospheres while the temperature remains constant, what will be the new volume of the gas?",
+    "options": {
+      "A": "6 liters",
+      "B": "1.5 liters",
+      "C": "0.75 liters",
+      "D": "3 liters"
+    },
+    "answer": "C",
+    "points": 10
+  },
+  {
+    "question": "Stainless steel is an alloy made up of",
+    "options": {
+      "A": "Iron and zinc",
+      "B": "Copper and tin",
+      "C": "Iron and chromium",
+      "D": "Iron and carbon"
+    },
+    "answer": "C",
+    "points": 10
+  },
+  {
+    "question": "What is the state of matter in which particles are widely spaced and move freely with high kinetic energy?",
+    "options": {
+      "A": "Liquid",
+      "B": "Solid",
+      "C": "Plasma",
+      "D": "Gas"
+    },
+    "answer": "D",
+    "points": 10
+  },
+  {
+    "question": "Identify the reducing agent in the following reaction: Zn + CuSO4 → ZnSO4 + Cu",
+    "options": {
+      "A": "Cu",
+      "B": "Zn",
+      "C": "ZnSO4",
+      "D": "CuSO4"
+    },
+    "answer": "B",
+    "points": 10
+  },
+  {
+    "question": "Balance the following redox reaction: Fe2O3 + CO → Fe + CO2",
+    "options": {
+      "A": "Fe2O3 + CO → 2Fe + 2CO2",
+      "B": "2Fe2O3 + 3CO → 4Fe + 3CO2",
+      "C": "Fe2O3 + 2CO → 2Fe + 2CO2",
+      "D": "Fe2O3 + 3CO → 2Fe + 3CO2"
+    },
+    "answer": "C",
+    "points": 10
+  },
+  {
+    "question": "What is the trend for ionization energy across a period in the periodic table?",
+    "options": {
+      "A": "Increases from left to right.",
+      "B": "Remains constant",
+      "C": "Varies randomly",
+      "D": "Decreases from left to right"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "Which type of chemical combination involves the transfer of electrons from one atom to another, resulting in the formation of oppositely charged ions?",
+    "options": {
+      "A": "Ionic bonding",
+      "B": "Hydrogen bonding",
+      "C": "Covalent bonding",
+      "D": "Metallic bonding"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "Which of the following alkanes has a straight-chain structure?",
+    "options": {
+      "A": "Cyclopentane (C5H10)",
+      "B": "Isobutane (C4H10)",
+      "C": "2 - methyl propane (C4H10)",
+      "D": "Pentane (C5H12)"
+    },
+    "answer": "D",
+    "points": 10
+  },
+  {
+    "question": "What is the product of the electrolysis of aqueous sodium chloride (NaCl) using inert electrodes?",
+    "options": {
+      "A": "Hydrogen gas at the cathode and chlorine gas at the anode",
+      "B": "Hydrogen gas at the cathode and oxygen gas at the anode",
+      "C": "Sodium metal at the cathode and chlorine gas at the anode",
+      "D": "Sodium metal at the cathode and oxygen gas at the anode"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "When an acidic solution is diluted, what happens to its pH?",
+    "options": {
+      "A": "It depends on the specific acid",
+      "B": "It decreases",
+      "C": "It remains the same",
+      "D": "It increases"
+    },
+    "answer": "D",
+    "points": 10
+  },
+  {
+    "question": "Which of the following factors does NOT affect the rate of a chemical reaction?",
+    "options": {
+      "A": "Concentration of reactants",
+      "B": "Presence of a catalyst",
+      "C": "Molecular weight of products",
+      "D": "Temperature"
+    },
+    "answer": "C",
+    "points": 10
+  },
+  {
+    "question": "Which organic compound is responsible for the characteristic aroma of fruits?",
+    "options": {
+      "A": "Alkane",
+      "B": "Alkyne",
+      "C": "Ester",
+      "D": "Amine"
+    },
+    "answer": "C",
+    "points": 10
+  },
+  {
+    "question": "What is the molar mass of water (H2O)?",
+    "options": {
+      "A": "18 g/mol",
+      "B": "22 g/mol",
+      "C": "16 g/mol",
+      "D": "12 g/mol"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "What is the chemical formula of rust, which is formed on the surface of iron in the presence of oxygen and moisture?",
+    "options": {
+      "A": "Fe3O4",
+      "B": "FeO",
+      "C": "Fe(OH)3",
+      "D": "Fe2O3"
+    },
+    "answer": "D",
+    "points": 10
+  },
+  {
+    "question": "How many pi (π) bonds are there in an alkene with six carbon atoms?",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "5",
+      "D": "3"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "What is the principal ore of iron, from which iron is extracted?",
+    "options": {
+      "A": "Calcite",
+      "B": "Bauxite",
+      "C": "Magnetite",
+      "D": "Hematite"
+    },
+    "answer": "D",
+    "points": 10
+  },
+  {
+    "question": "Which group does calcium belong to in the periodic table?",
+    "options": {
+      "A": "Alkaline earth metals",
+      "B": "Halogens",
+      "C": "Alkali metals",
+      "D": "Noble gases"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "Which of the following is a primary constituent of crude oil?",
+    "options": {
+      "A": "Pentane",
+      "B": "Ethanol",
+      "C": "Heptane",
+      "D": "Methane"
+    },
+    "answer": "D",
+    "points": 10
+  },
+  {
+    "question": "What is the main source of carbon monoxide (CO) in urban areas?",
+    "options": {
+      "A": "Volcanic eruptions",
+      "B": "Vehicle emissions",
+      "C": "Forest fires",
+      "D": "Industrial processes"
+    },
+    "answer": "B",
+    "points": 10
+  },
+
+  {
+    "question": "What is the empirical formula of a compound containing 40.00% carbon, 6.67% hydrogen, and 53.33% oxygen by mass?",
+    "options": {
+      "A": "C4H4O4",
+      "B": "CH2O",
+      "C": "C2H4O2",
+      "D": "C3H6O3"
+    },
+    "answer": "B",
+    "points": 10
+  },
+  {
+    "question": "Which separation technique is used to separate different pigments in a mixture based on their affinity for a stationary phase and a mobile phase?",
+    "options": {
+      "A": "Chromatography",
+      "B": "Filtration",
+      "C": "Decantation",
+      "D": "Distillation"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "What is the common name for ethanoic acid?",
+    "options": {
+      "A": "Acetic acid",
+      "B": "Butyric acid",
+      "C": "Propionic acid",
+      "D": "Formic acid"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "What type of reaction is involved in the formation of alkanols from alkenes?",
+    "options": {
+      "A": "Elimination reaction",
+      "B": "Redox reaction",
+      "C": "Substitution reaction",
+      "D": "Addition reaction"
+    },
+    "answer": "D",
+    "points": 10
+  },
+  {
+    "question": "What is the mass percentage of carbon (C) in methane (CH4)? (The molar mass of carbon is approximately 12 g/mol.)",
+    "options": {
+      "A": "25%",
+      "B": "12%",
+      "C": "75%",
+      "D": "50%"
+    },
+    "answer": "D",
+    "points": 10
+  },
+  {
+    "question": "Which of the following is a common property of non-metals?",
+    "options": {
+      "A": "Exist as solids at room temperature",
+      "B": "Tend to gain electrons in chemical reactions",
+      "C": "High thermal conductivity",
+      "D": "Readily form cations in chemical reactions"
+    },
+    "answer": "B",
+    "points": 10
+  },
+  {
+    "question": "What is the symbol used to represent an alpha particle?",
+    "options": {
+      "A": "α",
+      "B": "γ",
+      "C": "δ",
+      "D": "β"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "When a substance is oxidized, it",
+    "options": {
+      "A": "Loses electrons",
+      "B": "Gains oxygen atoms",
+      "C": "Gains electrons",
+      "D": "Loses protons (H+ ions)"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "A blue litmus paper turns red when dipped into a solution. What does this indicate about the solution?",
+    "options": {
+      "A": "The solution is basic",
+      "B": "The solution is neutral",
+      "C": "The solution is acidic",
+      "D": "The litmus paper is faulty"
+    },
+    "answer": "C",
+    "points": 10
+  },
+  {
+    "question": "Which of the following compounds is an example of an electrovalent bond?",
+    "options": {
+      "A": "NaCl (sodium chloride)",
+      "B": "CO2 (carbon dioxide)",
+      "C": "H2O (water)",
+      "D": "CH4 (methane)"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "If gas A has a molar mass of 32 g/mol and gas B has a molar mass of 64 g/mol, what is the ratio of their diffusion rates?",
+    "options": {
+      "A": "2:1",
+      "B": "1:2",
+      "C": "1:1",
+      "D": "1:4"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "The contact process is used for the industrial production of",
+    "options": {
+      "A": "sulfuric acid (H2SO4)",
+      "B": "Hydrochloric acid (HCl)",
+      "C": "Sodium hydroxide (NaOH)",
+      "D": "Calcium oxide (CaO)"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "Which of the following is a unique property of water compared to other liquids?",
+    "options": {
+      "A": "It is a poor solvent",
+      "B": "It does not evaporate",
+      "C": "It expands when freezing",
+      "D": "It has a low heat capacity"
+    },
+    "answer": "C",
+    "points": 10
+  },
+  {
+    "question": "Sodium reacts vigorously with water to produce",
+    "options": {
+      "A": "Sodium chloride (NaCl) and oxygen gas (O2)",
+      "B": "Sodium nitrate (NaNO3) and water (H2O)",
+      "C": "Sodium hydroxide (NaOH) and hydrogen gas (H2)",
+      "D": "Sodium oxide (Na2O) and hydrogen gas (H2)"
+    },
+    "answer": "C",
+    "points": 10
+  },
+  {
+    "question": "At room temperature and standard pressure, chlorine gas is in which state of matter?",
+    "options": {
+      "A": "Plasma",
+      "B": "Solid",
+      "C": "Liquid",
+      "D": "Gas"
+    },
+    "answer": "D",
+    "points": 10
+  },
+  {
+    "question": "What is the molecular geometry of a molecule with three bonding pairs and no lone pairs around the central atom?",
+    "options": {
+      "A": "Tetrahedral",
+      "B": "Trigonal planar",
+      "C": "Linear",
+      "D": "Octahedral"
+    },
+    "answer": "B",
+    "points": 10
+  },
+  {
+    "question": "Isotopes of an element have",
+    "options": {
+      "A": "The same number of protons but different numbers of neutrons.",
+      "B": "The same number of neutrons and electrons",
+      "C": "The same number of protons and neutrons",
+      "D": "The same number of protons and electrons"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "Which of the following is NOT a noble gas?",
+    "options": {
+      "A": "Argon",
+      "B": "Krypton",
+      "C": "Neon",
+      "D": "Hydrogen"
+    },
+    "answer": "D",
+    "points": 10
+  },
+  {
+    "question": "What is the chemical formula of baking soda?",
+    "options": {
+      "A": "Na2CO3",
+      "B": "NaOH",
+      "C": "NaHCO3",
+      "D": "NaCl"
+    },
+    "answer": "C",
+    "points": 10
+  }
+]

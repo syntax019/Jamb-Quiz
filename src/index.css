@@ -1,13 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root {
+  --color-pure-white: #ffffff;
+  --color-light-gray: #f4f6fa;
+  --color-light-bluish: #abc1e1;
+  --color-grey-navy: #626c7f;
+  --color-navy: #3b4d66;
+  --color-dark-navy: #313e51;
+  --color-red: #ee5454;
+  --color-light-orange: #fff1e9;
+  --color-light-green: #e0fdef;
+  --color-green: #26d782;
+  --color-light-blue: #ebf0ff;
+  --color-light-purple: #f6e7ff;
+  --color-purple: #d394fa;
+  --color-dark-purple: #a729f5;
+
+  --pattern-body-bg: url("./images/patterns/bg-desktop-dark.svg");
+
+  --shadow: 0 16px 40px 0 hsla(220, 29%, 66%, 14%);
+
+  --color-body-bg: var(--color-light-gray);
+  --color-body-text: var(--color-dark-navy);
+  --color-toggle: var(--color-grey-navy);
+  --color-info: var(--color-grey-navy);
+  --color-item-bg: var(--color-pure-white);
+} */
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
