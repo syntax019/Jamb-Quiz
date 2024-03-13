@@ -29,7 +29,7 @@ function ChemistryQ({ index, dispatch, answers, currentPoint, subject }) {
             } ${
               hasAnswered
                 ? option === firstQuestion.answer
-                  ? "bg-green"
+                  ? "bg-correct"
                   : "bg-red"
                 : ""
             }`}

@@ -1,0 +1,222 @@
+[
+  {
+    "question": "What is the area of a rectangle with length 5 m and width 3 m?",
+    "options": {
+      "A": "8 m²",
+      "B": "15 m²",
+      "C": "10 m²",
+      "D": "12 m²"
+    },
+    "answer": "D",
+    "points": 10
+  },
+  {
+    "question": "If the density of an object is 2 kg/m³ and its volume is 4 m³, what is its mass?",
+    "options": {
+      "A": "8 kg",
+      "B": "6 kg",
+      "C": "2 kg",
+      "D": "10 kg"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "A car travels a distance of 200 km in 4 hours. What is its average speed?",
+    "options": {
+      "A": "50 km/h",
+      "B": "40 km/h",
+      "C": "60 km/h",
+      "D": "45 km/h"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "If the time taken for an object to travel a distance of 100 m is 20 s, what is its speed?",
+    "options": {
+      "A": "5 m/s",
+      "B": "10 m/s",
+      "C": "15 m/s",
+      "D": "20 m/s"
+    },
+    "answer": "B",
+    "points": 10
+  },
+  {
+    "question": "What is the weight of an object with a mass of 5 kg? (Take g = 10 m/s²)",
+    "options": {
+      "A": "50 N",
+      "B": "10 N",
+      "C": "20 N",
+      "D": "5 N"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "If a car moves 100 m east and then 50 m north, what is its displacement?",
+    "options": {
+      "A": "150 m",
+      "B": "100 m",
+      "C": "120 m",
+      "D": "50 m"
+    },
+    "answer": "C",
+    "points": 10
+  },
+  {
+    "question": "A force of 50 N acts in the east direction, and another force of 30 N acts in the west direction. What is the resultant force?",
+    "options": {
+      "A": "80 N east",
+      "B": "20 N west",
+      "C": "20 N east",
+      "D": "80 N west"
+    },
+    "answer": "C",
+    "points": 10
+  },
+  {
+    "question": "If a vector has a magnitude of 5 units and points due north, what are its horizontal and vertical components respectively?",
+    "options": {
+      "A": "0, 5",
+      "B": "5, 0",
+      "C": "5, 5",
+      "D": "5, -5"
+    },
+    "answer": "B",
+    "points": 10
+  },
+  {
+    "question": "A displacement of 10 m is east, and another displacement of 8 m is north. What is the magnitude of the resultant displacement?",
+    "options": {
+      "A": "10 m",
+      "B": "8 m",
+      "C": "12 m",
+      "D": "14 m"
+    },
+    "answer": "C",
+    "points": 10
+  },
+  {
+    "question": "If a vector has a magnitude of 15 units and points at an angle of 30 degrees with the x-axis, what are its horizontal and vertical components respectively?",
+    "options": {
+      "A": "13 units, 7.5 units",
+      "B": "12 units, 7.5 units",
+      "C": "15 units, 7.5 units",
+      "D": "15 units, 8.7 units"
+    },
+    "answer": "B",
+    "points": 10
+  },
+  {
+    "question": "An object accelerates uniformly from rest at 2 m/s² for 5 seconds. What is its final velocity?",
+    "options": {
+      "A": "10 m/s",
+      "B": "12 m/s",
+      "C": "15 m/s",
+      "D": "20 m/s"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "What is the distance traveled by a car with a constant speed of 20 m/s for 10 seconds?",
+    "options": {
+      "A": "100 m",
+      "B": "200 m",
+      "C": "250 m",
+      "D": "300 m"
+    },
+    "answer": "B",
+    "points": 10
+  },
+  {
+    "question": "If a car accelerates uniformly from rest at 3 m/s² for 8 seconds, what is its displacement?",
+    "options": {
+      "A": "48 m",
+      "B": "64 m",
+      "C": "96 m",
+      "D": "128 m"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "What is the average velocity of a car that travels 300 m east in 20 seconds?",
+    "options": {
+      "A": "15 m/s",
+      "B": "20 m/s",
+      "C": "25 m/s",
+      "D": "30 m/s"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "A train decelerates uniformly from 30 m/s to rest in 10 seconds. What is its deceleration?",
+    "options": {
+      "A": "-3 m/s²",
+      "B": "-2 m/s²",
+      "C": "-1 m/s²",
+      "D": "-4 m/s²"
+    },
+    "answer": "D",
+    "points": 10
+  },
+  {
+    "question": "What is the weight of a body with a mass of 10 kg? (Take g = 9.8 m/s²)",
+    "options": {
+      "A": "98 N",
+      "B": "108 N",
+      "C": "88 N",
+      "D": "118 N"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "If an object has a weight of 100 N on Earth, what is its weight on the moon? (Take g_moon = 1.6 m/s²)",
+    "options": {
+      "A": "10 N",
+      "B": "16 N",
+      "C": "160 N",
+      "D": "25 N"
+    },
+    "answer": "B",
+    "points": 10
+  },
+  {
+    "question": "What is the gravitational force between two objects of masses 5 kg and 10 kg placed 2 meters apart? (Take G = 6.67 × 10^(-11) Nm²/kg²)",
+    "options": {
+      "A": "2.67 × 10^(-10) N",
+      "B": "4.67 × 10^(-10) N",
+      "C": "3.34 × 10^(-10) N",
+      "D": "5.67 × 10^(-10) N"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "If the mass of an object is doubled, how does its weight change?",
+    "options": {
+      "A": "It doubles",
+      "B": "It quadruples",
+      "C": "It halves",
+      "D": "It remains the same"
+    },
+    "answer": "A",
+    "points": 10
+  },
+  {
+    "question": "What is the gravitational potential energy of an object of mass 2 kg placed at a height of 5 m above the ground? (Take g = 9.8 m/s²)",
+    "options": {
+      "A": "98 J",
+      "B": "49 J",
+      "C": "19.6 J",
+      "D": "9.8 J"
+    },
+    "answer": "A",
+    "points": 10
+  }
+]

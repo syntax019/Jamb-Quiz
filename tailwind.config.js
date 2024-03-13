@@ -12,7 +12,7 @@ module.exports = {
       red: "#ee5454",
       lightOrange: "#fff1e9",
       lightGreen: "#e0fdef",
-      green: "#26d782",
+      correct: "#26d782",
       lightBlue: "#ebf0ff",
       lightPurple: "#f6e7ff",
       purple: "#d394fa",

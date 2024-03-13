@@ -1,4 +1,6 @@
 import question from "./questions.json";
+import physics from "./physics.json";
+import math from "./math.json";
 
 function Main({ dispatch }) {
   return (
@@ -21,12 +23,12 @@ function Main({ dispatch }) {
             ENGLISH
           </Subject>
           <Subject
-            onStartQuiz={() => dispatch({ type: "startMath", payload: "Math" })}
+            onStartQuiz={() => dispatch({ type: "startMath", payload: math })}
           >
             MATHEMATICS
           </Subject>
           <Subject
-            onStartQuiz={() => dispatch({ type: "startPhy", payload: "Phy" })}
+            onStartQuiz={() => dispatch({ type: "startPhy", payload: physics })}
           >
             PHYSICS
           </Subject>

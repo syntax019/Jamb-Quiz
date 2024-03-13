@@ -3,6 +3,8 @@ import Main from "./Main";
 import Test from "./components/test";
 import questions from "../src/questions.json";
 import ChemistryQ from "./components/ChemistryQ";
+import PhysicsQ from "./components/PhysicsQ";
+import MathQ from "./components/MathQ";
 
 const subjectsIndex = {
   english: 0,
@@ -43,13 +45,25 @@ function reducer(state, action) {
     case "startChem":
       return {
         ...state,
-        questions: console.log(action.payload),
+        questions: action.payload,
         status: "chem",
+      };
+    case "startPhy":
+      return {
+        ...state,
+        questions: action.payload,
+        status: "phy",
+      };
+    case "startMath":
+      return {
+        ...state,
+        questions: action.payload,
+        status: "math",
       };
     case "startEnglish":
       return {
         ...state,
-        questions: console.log(action.payload),
+        questions: action.payload,
         status: "english",
       };
     case "nextQuestion":
@@ -85,6 +99,22 @@ function App() {
       {status === "ready" && <Main dispatch={dispatch} />}
       {status === "chem" && (
         <ChemistryQ
+          index={index}
+          dispatch={dispatch}
+          answers={answers}
+          currentPoint={currentPoint}
+        />
+      )}
+      {status === "phy" && (
+        <PhysicsQ
+          index={index}
+          dispatch={dispatch}
+          answers={answers}
+          currentPoint={currentPoint}
+        />
+      )}
+      {status === "math" && (
+        <MathQ
           index={index}
           dispatch={dispatch}
           answers={answers}

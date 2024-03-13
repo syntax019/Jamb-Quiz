@@ -1,0 +1,305 @@
+[
+  {
+    "question": "How many different 8 letter words are possible using the letters of the word SYLLABUS?",
+    "options": ["(8 - 1)!", "8!2!8!2!", "8!2!2!8!2!2!", "8!"],
+    "answer": "8!",
+    "points": 10
+  },
+  {
+    "question": "Evaluate: 160.160.16 × 160.040.04 × 20.20.2",
+    "options": ["2", "0", "200", "12"],
+    "answer": "0",
+    "points": 10
+  },
+  {
+    "question": "Let '*' and '^' be two binary operations such that a * b = a22b and a ^ b = 2a + b. Find (-4 * 2) ^ (7 * -1).",
+    "options": ["-49", "64", "113", "15"],
+    "answer": "-49",
+    "points": 10
+  },
+  {
+    "question": "Evaluate ∫104x−6x2−−√3dx",
+    "options": ["- 5858", "- 8585", "8585", "58585"],
+    "answer": "- 5858",
+    "points": 10
+  },
+  {
+    "question": "The population of a village decreased from 1,230 to 1,040 due to breakout of an epidemic. What is the percentage decrease in the population?",
+    "options": ["15.44%", "15.43%", "15.42%", "15.45%"],
+    "answer": "15.44%",
+    "points": 10
+  },
+  {
+    "question": "The interior angle of a regular polygon is five times the size of its exterior angle. Identify the polygon.",
+    "options": ["dodecagon", "enneadecagon", "icosagon", "hendecagon"],
+    "answer": "hendecagon",
+    "points": 10
+  },
+  {
+    "question": "The area A of a circle is increasing at a constant rate of 1.5 cm2s−12�−1. Find, to 3 significant figures, the rate at which the radius r of the circle is increasing when the area of the circle is 2 cm22.",
+    "options": [
+      "0.200 cms−1−1",
+      "0.798 cms−1−1",
+      "0.300 cms−1−1",
+      "0.299 cms−1−1"
+    ],
+    "answer": "0.300 cms−1−1",
+    "points": 10
+  },
+  {
+    "question": "Make x the subject of the formula: y = 3x−9c4x+5d",
+    "options": [
+      "x = (−9c−5dy)4y−3",
+      "x = −9c+5dy4y−3",
+      "x = (−9c+5dy)4y−3",
+      "x = −(9c+5dy)4y−3"
+    ],
+    "answer": "x = (−9c+5dy)4y−3",
+    "points": 10
+  },
+  {
+    "question": "Solve for x: 3(x – 1) ≤ 2 (x – 3)",
+    "options": ["x ≤ -3", "x ≥ -3", "x ≤ 3", "x ≥ 3"],
+    "answer": "x ≤ 3",
+    "points": 10
+  },
+  {
+    "question": "If a car runs at a constant speed and takes 4.5 hrs to run a distance of 225 km, what time will it take to run 150 km?",
+    "options": ["2 hrs", "4 hrs", "3 hrs", "1 hr"],
+    "answer": "3 hrs",
+    "points": 10
+  },
+  {
+    "question": "Divide 1101001two by 101two",
+    "options": ["11101two", "111two", "10111two", "10101two"],
+    "answer": "10101two",
+    "points": 10
+  },
+  {
+    "question": "If 3−3√2+3√=a+b3–√3−32+3=�+�3, what are the values a and b?",
+    "options": [
+      "a = 9, b = -5",
+      "a = 5, b = 9",
+      "a = 9, b = 5",
+      "a = -5, b = 9"
+    ],
+    "answer": "a = 9, b = -5",
+    "points": 10
+  },
+  {
+    "question": "Find the value of t, if the distance between the points P(–3, –14) and Q(t, –5) is 9 units.",
+    "options": ["3", "2", "- 3", "- 2"],
+    "answer": "3",
+    "points": 10
+  },
+  {
+    "question": "At simple interest, a man made a deposit of some money in the bank. The amount in his bank account after 10 years is three times the money deposited. If the interest rate stays the same, after how many years will the amount be five times the money deposited?",
+    "options": ["15 years", "25 years", "20 years", "30 years"],
+    "answer": "20 years",
+    "points": 10
+  },
+  {
+    "question": "Evaluate the following limit: limx→2x2+4x−12x2−2x",
+    "options": ["4", "8", "0", "2"],
+    "answer": "4",
+    "points": 10
+  },
+  {
+    "question": "A committee of 5 people is to be chosen from a group of 6 men and 4 women. How many committees are possible if there is to be a majority of women?",
+    "options": ["60", "15", "66", "4"],
+    "answer": "66",
+    "points": 10
+  },
+  {
+    "question": "A boat sails 8 km north from P to Q and then sails 6 km west from Q to R. Calculate the bearing of R from P. Give your answer to the nearest degree.",
+    "options": ["217°", "323°", "37°", "53°"],
+    "answer": "323°",
+    "points": 10
+  },
+  {
+    "question": "A coin is thrown 3 times. What is the probability that at least one head is obtained?",
+    "options": ["7/8", "3/8", "None of the above", "18/22"],
+    "answer": "7/8",
+    "points": 10
+  },
+  {
+    "question": "Find the equation of straight line passing through (2, 3) and perpendicular to the line 3x+2y+4=0",
+    "options": [
+      "3y = 5x - 2",
+      "y = 53×−253×−2",
+      "None of these",
+      "3y = 2x + 523"
+    ],
+    "answer": "3y = 5x - 2",
+    "points": 10
+  },
+  {
+    "question": "Differentiate the function y = x2−−√3(2x−x2)",
+    "options": [
+      "dy/dx=10x5/33−8x2/33",
+      "dy/dx=10x2/33−8x5/33",
+      "dy/dx=10x5/33−8x5/33",
+      "dy/dx=10x2/33−8x2/33"
+    ],
+    "answer": "dy/dx=10x2/33−8x5/33",
+    "points": 10
+  },
+  {
+    "question": "Calculate the mean deviation of the first five prime numbers.",
+    "options": ["2.72", "5.6", "5.25", "13.625"],
+    "answer": "5.25",
+    "points": 10
+  },
+  {
+    "question": "Determine the area of the region bounded by y = 2x2 + 10 and Y = 4x+16",
+    "options": ["18", "−103", "443", "64"],
+    "answer": "64",
+    "points": 10
+  },
+  {
+    "question": "Find the value of y if 402y=102ten402�=102���",
+    "options": ["4", "2", "5", "327"],
+    "answer": "2",
+    "points": 10
+  },
+  {
+    "question": "Find the value of y, if log (y + 8) + log (y - 8) = 2log 3 + 2log 5",
+    "options": ["y = ±5", "y = ±10", "y = ±17", "y = ±13"],
+    "answer": "y = ±5",
+    "points": 10
+  },
+  {
+    "question": "In a group of 500 people, 350 people can speak English, and 400 people can speak French. Find how many people can speak both languages.",
+    "options": ["750", "850", "250", "150"],
+    "answer": "250",
+    "points": 10
+  },
+  {
+    "question": "Factorize: 16x4−y4",
+    "options": [
+      "(2x−y)(2x+y)(4x2+y2)",
+      "(2x+y)(2x+y)(4x2+y2)",
+      "(2x−y)(2x−y)(4x2+y2)",
+      "(2x−y)(2x+y)(4x2−y2)"
+    ],
+    "answer": "(2x−y)(2x+y)(4x2+y2)",
+    "points": 10
+  },
+  {
+    "question": "If A = { 1, 2, 3, 4, 5, 6}, B = { 2, 4, 6, 8 }. Find (A – B) ⋃ (B – A).",
+    "options": ["{1, 3, 5, 8}", "{8}", "{1, 2, 3, 4, 5, 6, 8}", "{1, 3, 5}"],
+    "answer": "{1, 3, 5, 8}",
+    "points": 10
+  },
+  {
+    "question": "Let a binary operation '*' be defined on a set A. The operation will be commutative if",
+    "options": [
+      "a*b = b*a",
+      "(a*b)*c = a*(b*c)",
+      "(b ο c)*a = (b*a) ο (c*a)",
+      "None of the above"
+    ],
+    "answer": "a*b = b*a",
+    "points": 10
+  },
+  {
+    "question": "Solve the following quadratic inequality: x2−x�2−� - 4 ≤ 2",
+    "options": ["−3<x<2", "−2≤x≤3", "x≤−2,x≤3", "−2<x<3"],
+    "answer": "−3<x<2",
+    "points": 10
+  },
+  {
+    "question": "What is the general term of the sequence 3, 8, 13, 18, ...?",
+    "options": ["5n - 2", "5n + 2", "5", "5n"],
+    "answer": "5n - 2",
+    "points": 10
+  },
+  {
+    "question": "The locus of a point equidistant from two intersecting lines is",
+    "options": [
+      "where the sum of the distances of two focal points is fixed",
+      "the collection of points that are equally distant from a fixed point and a line",
+      "the perpendicular bisector of the lines",
+      "pair of bisectors of the angles between the two lines"
+    ],
+    "answer": "the perpendicular bisector of the lines",
+    "points": 10
+  },
+  {
+    "question": "Two numbers are respectively 35% and 80% more than a third number. The ratio of the two numbers is",
+    "options": ["7 : 16", "3 : 4", "16 : 7", "4 : 3"],
+    "answer": "16 : 7",
+    "points": 10
+  },
+  {
+    "question": "The angle of elevation and depression of the top and bottom of another building, measured from the top of a 24 m tall building, is 30° and 60°, respectively. Determine the second building's height.",
+    "options": ["24 m", "323–√3 m", "243–√3", "32 m"],
+    "answer": "32 m",
+    "points": 10
+  },
+  {
+    "question": "An article when sold for ₦230.00 makes a 15% profit. Find the profit or loss % if it was sold for ₦180.00",
+    "options": ["10% gain", "10% loss", "12% loss", "12% gain"],
+    "answer": "12% loss",
+    "points": 10
+  },
+  {
+    "question": "A rectangular plot of land has sides with lengths of 38 m and 52 m corrected to the nearest m. Find the range of the possible values of the area of the rectangle",
+    "options": [
+      "1931.25 m2 ≤ A < 2021.25 m2",
+      "1950 m2 ≤ A < 2002 m2",
+      "1957 m2 ≤ A < 1995 m2",
+      "1931.25 m2 ≥ A > 2021.25 m2"
+    ],
+    "answer": "1957 m2 ≤ A < 1995 m2",
+    "points": 10
+  },
+  {
+    "question": "A man sells different brands of an items. 1/9 of the items he has in his shop are from Brand A, 5/8 of the remainder are from Brand B and the rest are from Brand C. If the total number of Brand C items in the man's shop is 81, how many more Brand B items than Brand C does the shop has?",
+    "options": ["243", "108", "54", "135"],
+    "answer": "135",
+    "points": 10
+  },
+  {
+    "question": "Find the area, to the nearest cm2, of the triangle whose sides are in the ratio 2 : 3 : 4 and whose perimeter is 180 cm.",
+    "options": ["1162 cm2", "1163 cm2", "1160 cm2", "1161 cm2"],
+    "answer": "1161 cm2",
+    "points": 10
+  },
+  {
+    "question": "Find the compound interest (CI) on ₦15,700 for 2 years at 8% per annum compounded annually.",
+    "options": ["₦6,212.48", "₦2,834.48", "₦18,312.48", "₦2,612.48"],
+    "answer": "₦2,834.48",
+    "points": 10
+  },
+  {
+    "question": "The third term of an A.P is 6 and the fifth term is 12. Find the sum of its first twelve terms",
+    "options": ["201", "144", "198", "72"],
+    "answer": "198",
+    "points": 10
+  },
+  {
+    "question": "Express 16.54 x 10−5 - 6.76 x 10−8 + 0.23 x 10−6 in standard form",
+    "options": ["1.66 x 10−4", "1.66 x 10−5", "1.65 x 10−5", "1.65 x 10−4"],
+    "answer": "1.65 x 10−5",
+    "points": 10
+  },
+  {
+    "question": "A student is using a graduated cylinder to measure the volume of water and reports a reading of 18 mL. The teacher reports the value as 18.4 mL. What is the student's percent error?",
+    "options": ["2.17%", "1.73%", "2.23%", "1.96%"],
+    "answer": "2.17%",
+    "points": 10
+  },
+  {
+    "question": "The difference between an exterior angle of (n - 1) sided regular polygon and an exterior angle of (n + 2) sided regular polygon is 6°, then the value of 'n' is",
+    "options": ["11", "13", "12", "45"],
+    "answer": "12",
+    "points": 10
+  },
+  {
+    "question": "Two dice are tossed. What is the probability that the total score is a prime number.",
+    "options": ["5/12", "59", "1/6", "1/3"],
+    "answer": "1/3",
+    "points": 10
+  }
+]
